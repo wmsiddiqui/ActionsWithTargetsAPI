@@ -1,0 +1,14 @@
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionTests\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionTests\bin\Debug\netcoreapp1.1\ActionTests.deps.json
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionTests\bin\Debug\netcoreapp1.1\ActionTests.runtimeconfig.json
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionTests\bin\Debug\netcoreapp1.1\ActionTests.runtimeconfig.dev.json
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionTests\bin\Debug\netcoreapp1.1\ActionTests.dll
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionTests\bin\Debug\netcoreapp1.1\ActionTests.pdb
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionTests\bin\Debug\netcoreapp1.1\Actions.dll
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionTests\bin\Debug\netcoreapp1.1\Actions.pdb
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionTests\obj\Debug\netcoreapp1.1\ActionTests.csprojResolveAssemblyReference.cache
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionTests\obj\Debug\netcoreapp1.1\ActionTests.AssemblyInfo.cs
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionTests\obj\Debug\netcoreapp1.1\ActionTests.dll
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionTests\obj\Debug\netcoreapp1.1\ActionTests.pdb

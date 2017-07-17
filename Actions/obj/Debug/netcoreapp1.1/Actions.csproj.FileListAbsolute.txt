@@ -1,0 +1,7 @@
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\Actions\bin\Debug\netcoreapp1.1\Actions.deps.json
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\Actions\bin\Debug\netcoreapp1.1\Actions.dll
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\Actions\bin\Debug\netcoreapp1.1\Actions.pdb
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\Actions\obj\Debug\netcoreapp1.1\Actions.csprojResolveAssemblyReference.cache
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\Actions\obj\Debug\netcoreapp1.1\Actions.AssemblyInfo.cs
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\Actions\obj\Debug\netcoreapp1.1\Actions.dll
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\Actions\obj\Debug\netcoreapp1.1\Actions.pdb

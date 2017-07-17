@@ -1,0 +1,11 @@
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionWebService\bin\Debug\netcoreapp1.1\ActionWebService.deps.json
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionWebService\bin\Debug\netcoreapp1.1\ActionWebService.runtimeconfig.json
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionWebService\bin\Debug\netcoreapp1.1\ActionWebService.runtimeconfig.dev.json
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionWebService\bin\Debug\netcoreapp1.1\ActionWebService.dll
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionWebService\bin\Debug\netcoreapp1.1\ActionWebService.pdb
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionWebService\obj\Debug\netcoreapp1.1\ActionWebService.csprojResolveAssemblyReference.cache
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionWebService\obj\Debug\netcoreapp1.1\ActionWebService.AssemblyInfo.cs
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionWebService\obj\Debug\netcoreapp1.1\ActionWebService.dll
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionWebService\obj\Debug\netcoreapp1.1\ActionWebService.pdb
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionWebService\bin\Debug\netcoreapp1.1\Actions.dll
+c:\users\sidwaq01\documents\visual studio 2017\Projects\ActionWebService\ActionWebService\bin\Debug\netcoreapp1.1\Actions.pdb
