@@ -9,12 +9,16 @@ This is simply a proof of concept I hacked together and not intended to be produ
 There are unit tests, but they are minimal.
 
 Here is a sample postman call:
+
+```
 POST /api/IncrementDecrementAction HTTP/1.1
 Host: localhost:62357
 Content-Type: application/json
 Cache-Control: no-cache
 Postman-Token: f09f6861-270c-31ba-b62f-b54b2d0c8c34
+```
 
+```
 {
     "incrementTargets": [
     	{
@@ -32,9 +36,11 @@ Postman-Token: f09f6861-270c-31ba-b62f-b54b2d0c8c34
     	}
     ]
 }
+```
 
 and a response:
 
+```
 {
     "incrementTargets": [
         {
@@ -53,3 +59,6 @@ and a response:
         }
     ]
 }
+```
+
+One application is in a game, where one "action" or "effect" might have multiple sub actions.
